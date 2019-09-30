@@ -1,6 +1,7 @@
+
 import { Event, Observable } from "./Observable.js";
 import Dialog from "./Dialog.js";
-import RecorderView from "./RecorderView.js";
+import RecorderView from "./recorderView.js";
 
 
 function initRecorder(recorder){

@@ -2,7 +2,8 @@ import AudioRecorder from "./AudioRecorder.js";
 import Dialog from "./Dialog.js";
 import AnnotationManager from "./Managers/AnnotationManager.js";
 import DownloadManager from "./Managers/DownloadManager.js";
-import ManageAudioList from './ManageAudioList.js';
+import ManageAudioList from "./ManageAudioList.js";
+import RecorderView from "/recorderView.js";
 
 var audioRecorder,
  annotationSaverManager,
